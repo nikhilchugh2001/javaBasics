@@ -18,7 +18,7 @@ public class PallindromeNumber {
 		}
 
 		if(actualNum == rev) {
-			System.out.println("This is a pallindrome number " + rev);
+			System.out.println("This is a pallindrome number+ " + rev);
 			
 		}
 		
