@@ -5,7 +5,7 @@ public class ArmstrongNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int num = 153;//Armstrong no: 1*1*1 + 2*2*2 + 3*3*3
+		int num = 153;//Armstrong no: 1*1*1 + 5*5*5 + 3*3*3
 		
 		int actualNum= num;
 		double result =0;

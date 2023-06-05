@@ -6,7 +6,7 @@ public class CountDigitInInterger {
 		// TODO Auto-generated method stub
 
 		
-		long num = 0;
+		long num = 9595;
 		
 		int count = 0;
 		while(num!=0) {

@@ -16,7 +16,8 @@ public class PallindromeNumber {
 			rev = rev*10 +n;
 			num= num/10;
 		}
-
+		
+		System.out.println(rev);
 		if(actualNum == rev) {
 			System.out.println("This is a pallindrome number+ " + rev);
 			
